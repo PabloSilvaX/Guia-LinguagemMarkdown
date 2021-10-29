@@ -70,4 +70,5 @@ Ou Simplesmente:
 Resposta Blablablabla! 
 
 [Aula Guia da Linguagem Markdown - Curso em Video](https://youtu.be/LntSB-gl-ZI)
+
 [PDF Guia-Markdown - Curso em Video](https://github.com/gustavoguanabara/git-github/tree/master/manuais-PDF)
